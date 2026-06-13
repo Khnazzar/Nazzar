@@ -9,6 +9,7 @@ I specialize in designing and developing Arduino and ESP-based embedded systems 
 - **Microcontroller Programming** - Arduino, ESP32, ESP8266
 - **Embedded C/C++** - Efficient and optimized code for resource-constrained devices
 - **Hardware Integration** - Sensors, actuators, wireless communication
+- **Web Development** - Frontend projects and interactive applications
 
 ## 📚 Education & Skills
 
@@ -19,56 +20,67 @@ I specialize in designing and developing Arduino and ESP-based embedded systems 
 - Sensor Integration & Data Acquisition
 - Wireless Communication (WiFi, Bluetooth, LoRa)
 - PCB Design & Prototyping
+- HTML5, CSS3, JavaScript (Web Development)
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name]
-**Description:** Brief description of what this project does  
-**Tech Stack:** Arduino/ESP32, Sensors, Communication Protocol  
-**Repository:** [Link to project folder]  
+### 1. 🌍 Digital Clock - Multi-Timezone Display
+**Description:** A beautiful, responsive web application that displays real-time clocks for multiple time zones worldwide.  
+**Tech Stack:** HTML5, CSS3, JavaScript (Vanilla JS, ES6+)  
+**Repository:** [View Project](https://github.com/Khnazzar/Nazzar/tree/main/projects/digital-clock-timezones)  
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Real-time updates every second
+- 15+ major world cities
+- 12-hour and 24-hour format toggle
+- Smooth animations and responsive design
+- Shows date, day, and UTC offset
+- No external dependencies
 
-### 2. [Project Name]
-**Description:** Brief description of what this project does  
-**Tech Stack:** Arduino/ESP8266, IoT, Cloud Integration  
-**Repository:** [Link to project folder]  
-**Key Features:**
-- Feature 1
-- Feature 2
+**Live Demo:** Open `index.html` in your browser
 
-### 3. [Project Name]
-**Description:** Brief description of what this project does  
-**Tech Stack:** ESP32, Machine Learning, Real-time Processing  
-**Repository:** [Link to project folder]  
-**Key Features:**
-- Feature 1
-- Feature 2
+---
+
+### 2. [Arduino Project - Coming Soon]
+**Description:** Will add previous Arduino/ESP projects here after school exams.  
+**Tech Stack:** Arduino/ESP32  
+**Status:** ⏳ To be added
+
+### 3. [IoT Project - Coming Soon]
+**Description:** Will add more embedded systems projects here after school exams.  
+**Tech Stack:** Arduino/ESP8266, IoT  
+**Status:** ⏳ To be added
 
 ## 📁 Repository Structure
 
 ```
 Nazzar/
-├── README.md                 # This file
-├── projects/                 # All project folders
-│   ├── project-1/           # Individual project
-│   │   ├── README.md        # Project documentation
-│   │   ├── code/            # Arduino/ESP code
-│   │   ├── schematics/      # Circuit diagrams
-│   │   └── docs/            # Additional documentation
-│   ├── project-2/
-│   └── project-3/
-├── resources/               # Learning resources & references
+├── README.md                           # This file
+├── projects/                           # All project folders
+│   ├── digital-clock-timezones/        # Web-based multi-timezone clock
+│   │   ├── index.html                  # Main application
+│   │   ├── style.css                   # Styling
+│   │   ├── script.js                   # Clock logic
+│   │   └── README.md                   # Project documentation
+│   ├── [arduino-project]/              # To be added
+│   │   ├── README.md
+│   │   ├── code/
+│   │   └── schematics/
+│   └── [iot-project]/                  # To be added
+├── resources/                          # Learning resources & references
 │   ├── tutorials/
 │   └── documentation/
-└── images/                  # Portfolio images & diagrams
+└── images/                             # Portfolio images & diagrams
 ```
 
 ## 🔧 Technical Highlights
 
-- **Real-time Data Processing:** Low-latency sensor data acquisition and processing
+### Web Development
+- **Real-time Data Processing:** JavaScript Date and Timezone APIs
+- **Responsive UI:** CSS Grid and Flexbox layouts
+- **Smooth Animations:** CSS3 transitions and keyframe animations
+
+### Embedded Systems (Coming Soon)
+- **Real-time Data Processing:** Low-latency sensor data acquisition
 - **Wireless Connectivity:** WiFi and Bluetooth implementations
 - **Power Optimization:** Efficient code for battery-operated devices
 - **Scalability:** Designed for deployment across multiple devices
@@ -78,26 +90,36 @@ Nazzar/
 ![GitHub Followers](https://img.shields.io/github/followers/Khnazzar?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Khnazzar?style=social)
 
-## 📖 Blog & Documentation
+## 📖 Documentation
 
-I regularly document my learning journey and project insights. Check out the individual project folders for:
-- Step-by-step implementation guides
-- Troubleshooting tips
-- Performance optimization techniques
-- Hardware configuration details
+Each project includes:
+- **README.md** - Detailed project description and features
+- **Code comments** - Well-documented source code
+- **Setup guides** - Step-by-step implementation instructions
+- **Usage examples** - How to use the project
 
 ## 🎓 Academic Projects
 
-This portfolio includes projects developed during my academic studies, demonstrating:
+This portfolio includes projects developed during my studies, demonstrating:
 - Problem-solving abilities
 - Technical implementation skills
 - Documentation and communication
 - Research and experimentation
 
+## 📝 Project Status
+
+| Project | Status | Type |
+|---------|--------|------|
+| Digital Clock - Multi-Timezone | ✅ Complete | Web |
+| Arduino Projects | ⏳ Coming Soon | Embedded |
+| IoT Projects | ⏳ Coming Soon | Embedded |
+
+**Note:** More projects will be added after school exams in mid-2026.
+
 ## 🤝 Connect With Me
 
 - **GitHub:** [@Khnazzar](https://github.com/Khnazzar)
-- **Email:** [Your Email]
+- **Email:** habibnazzar195@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile]
 
 ## 📝 License
@@ -106,6 +128,7 @@ This portfolio and its projects are available for educational and research purpo
 
 ---
 
-**Last Updated:** June 2026
+**Last Updated:** June 13, 2026  
+**Current Focus:** School Exams (Will add more projects after exams ✏️)
 
-*"Building smart solutions through embedded systems and IoT innovation"*
+*"Building smart solutions through embedded systems and web development"*
