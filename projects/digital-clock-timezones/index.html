@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock - Multi-Timezone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🌍 World Clock</h1>
+            <p>Real-time display across multiple time zones</p>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <button id="formatBtn" class="btn btn-format">
+                📅 Switch to 24-Hour Format
+            </button>
+            <button id="refreshBtn" class="btn btn-refresh">
+                🔄 Refresh Now
+            </button>
+        </div>
+
+        <!-- Clock Cards Container -->
+        <div class="clocks-grid" id="clocksGrid">
+            <!-- Clock cards will be dynamically generated here -->
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>Last updated: <span id="lastUpdated">Loading...</span></p>
+            <p>🕐 Updates every second</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
